@@ -1,0 +1,6 @@
+client/node_modules/*
+server/node_modules/*
+server/yarn.lock
+server/sessions/*
+db/node_modules/*
+db/yarn.lock
